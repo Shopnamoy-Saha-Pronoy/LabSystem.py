@@ -1,0 +1,22 @@
+{
+   "1": {
+      "Operating_System:": "Windows 10",
+      "Pc_Name:": "Hp",
+      "Status Of the PC:": "OK"
+   },
+   "2": {
+      "Operating_System:": "Windows 11",
+      "Pc_Name:": "Dell",
+      "Status Of the PC:": "Problem"
+   },
+   "3": {
+      "Operating_System:": "win 11",
+      "Pc_Name": "lenovo",
+      "Status Of the PC:": "ok"
+   },
+   "5": {
+      "Operating_System:": "linax",
+      "Pc_Name": "hadu",
+      "Status Of the PC:": "not ok"
+   }
+}
